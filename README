@@ -1,0 +1,7 @@
+Command stddev reads float64 values on its stdin and outputs number of
+samples, population standard deviation and mean.
+
+Values that cannot be parsed as float64 are silently ignored.
+
+    printf "1\n2\n3\n4\n5\njunk\n" | stddev
+    5 samples: stddev 1.414214 mean 3.000000
