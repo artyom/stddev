@@ -5,7 +5,7 @@
   branch = "master"
   name = "github.com/antonlindstrom/gostddev"
   packages = ["."]
-  revision = "0bc0a0485419ceca6c06a200fcae735eeae9917e"
+  revision = "e0292538c429029bffaa7ce17244d1ad1d2e1ce9"
 
 [solve-meta]
   analyzer-name = "dep"
